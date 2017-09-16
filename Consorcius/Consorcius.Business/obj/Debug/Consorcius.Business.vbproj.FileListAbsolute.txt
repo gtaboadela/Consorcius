@@ -1,0 +1,15 @@
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\bin\Debug\Consorcius.Business.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\bin\Debug\Consorcius.Business.pdb
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\bin\Debug\Consorcius.Business.xml
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\bin\Debug\Consorcius.Data.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\bin\Debug\Consorcius.Entity.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\bin\Debug\Consorcius.Data.pdb
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\bin\Debug\Consorcius.Data.xml
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\bin\Debug\Consorcius.Entity.pdb
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\bin\Debug\Consorcius.Entity.xml
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\obj\Debug\Consorcius.Business.vbprojResolveAssemblyReference.cache
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\obj\Debug\Consorcius.Business.Resources.resources
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\obj\Debug\Consorcius.Business.vbproj.GenerateResource.Cache
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\obj\Debug\Consorcius.Business.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\obj\Debug\Consorcius.Business.xml
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Business\obj\Debug\Consorcius.Business.pdb

@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\wwwConsorcius</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DAL.dll">
+      <publishTime>11/20/2014 19:51:59</publishTime>
+    </File>
+    <File Include="bin/DAL.pdb">
+      <publishTime>11/20/2014 19:51:59</publishTime>
+    </File>
+    <File Include="bin/Entidad.dll">
+      <publishTime>11/20/2014 19:31:06</publishTime>
+    </File>
+    <File Include="bin/Entidad.pdb">
+      <publishTime>11/20/2014 19:31:06</publishTime>
+    </File>
+    <File Include="bin/Interface.dll">
+      <publishTime>11/20/2014 19:31:05</publishTime>
+    </File>
+    <File Include="bin/Interface.pdb">
+      <publishTime>11/20/2014 19:31:05</publishTime>
+    </File>
+    <File Include="bin/MySite.dll">
+      <publishTime>11/20/2014 21:43:24</publishTime>
+    </File>
+    <File Include="bin/MySite.pdb">
+      <publishTime>11/20/2014 21:43:24</publishTime>
+    </File>
+    <File Include="bin/MySite.xml">
+      <publishTime>11/20/2014 21:43:24</publishTime>
+    </File>
+    <File Include="bin/Negocio.dll">
+      <publishTime>11/20/2014 21:43:24</publishTime>
+    </File>
+    <File Include="bin/Negocio.pdb">
+      <publishTime>11/20/2014 21:43:24</publishTime>
+    </File>
+    <File Include="Clientes/AltaConsorcios.aspx">
+      <publishTime>11/20/2014 14:42:10</publishTime>
+    </File>
+    <File Include="Clientes/AltaUnidadFuncional.aspx">
+      <publishTime>11/18/2014 12:00:52</publishTime>
+    </File>
+    <File Include="Clientes/ClientesHome.aspx">
+      <publishTime>11/15/2014 16:32:34</publishTime>
+    </File>
+    <File Include="Clientes/Consorcios.aspx">
+      <publishTime>11/20/2014 14:40:38</publishTime>
+    </File>
+    <File Include="Clientes/partials/_sideMenuClientes.htm">
+      <publishTime>11/12/2014 12:36:02</publishTime>
+    </File>
+    <File Include="Clientes/partials/_sideMenuConsorcios.htm">
+      <publishTime>11/15/2014 18:10:28</publishTime>
+    </File>
+    <File Include="Clientes/partials/_sideMenuUnidadesFuncionales.htm">
+      <publishTime>11/19/2014 17:48:28</publishTime>
+    </File>
+    <File Include="Clientes/partials/_topMenuClientes.htm">
+      <publishTime>11/19/2014 17:28:14</publishTime>
+    </File>
+    <File Include="Clientes/UnidadesFuncionales.aspx">
+      <publishTime>11/20/2014 20:39:16</publishTime>
+    </File>
+    <File Include="Contacto.aspx">
+      <publishTime>08/30/2014 09:43:50</publishTime>
+    </File>
+    <File Include="Cultura.aspx">
+      <publishTime>08/30/2014 09:43:50</publishTime>
+    </File>
+    <File Include="Empleados/ABMEmpleados.aspx">
+      <publishTime>08/30/2014 09:35:38</publishTime>
+    </File>
+    <File Include="Empleados/AltaClientes.aspx">
+      <publishTime>11/18/2014 12:06:00</publishTime>
+    </File>
+    <File Include="Empleados/AltaEmpleados.aspx">
+      <publishTime>11/18/2014 12:06:00</publishTime>
+    </File>
+    <File Include="Empleados/Bitacora.aspx">
+      <publishTime>11/20/2014 20:40:27</publishTime>
+    </File>
+    <File Include="Empleados/ConsultaClientes.aspx">
+      <publishTime>11/18/2014 12:05:12</publishTime>
+    </File>
+    <File Include="Empleados/ConsultaEmpleados.aspx">
+      <publishTime>11/18/2014 12:05:22</publishTime>
+    </File>
+    <File Include="Empleados/EmpleadosConsulta.aspx">
+      <publishTime>09/04/2014 21:51:13</publishTime>
+    </File>
+    <File Include="Empleados/EmpleadosHome.aspx">
+      <publishTime>11/18/2014 12:05:30</publishTime>
+    </File>
+    <File Include="Empleados/GestionIdioma.aspx">
+      <publishTime>11/18/2014 12:05:38</publishTime>
+    </File>
+    <File Include="Empleados/images/arrow.gif">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/basico.gif">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/basicoplus.gif">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/bg.jpg">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/bullet.gif">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/checklst.gif">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/clock.gif">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/comment.gif">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/footerbg.jpg">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/granted.png">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/header.jpg">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/menubg.jpg">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/page.gif">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/premium.gif">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/quienes.jpg">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/quote.gif">
+      <publishTime>08/28/2014 22:45:20</publishTime>
+    </File>
+    <File Include="Empleados/images/Style.css">
+      <publishTime>08/28/2014 22:45:30</publishTime>
+    </File>
+    <File Include="Empleados/Msg.aspx">
+      <publishTime>08/30/2014 16:21:27</publishTime>
+    </File>
+    <File Include="Empleados/partials/_footer.htm">
+      <publishTime>08/28/2014 22:29:50</publishTime>
+    </File>
+    <File Include="Empleados/partials/_formAlta.htm">
+      <publishTime>11/03/2014 08:53:20</publishTime>
+    </File>
+    <File Include="Empleados/partials/_formAltaClientes.htm">
+      <publishTime>11/03/2014 08:53:04</publishTime>
+    </File>
+    <File Include="Empleados/partials/_head.htm">
+      <publishTime>08/28/2014 22:44:50</publishTime>
+    </File>
+    <File Include="Empleados/partials/_sideMenuABMEmpleados.htm">
+      <publishTime>11/03/2014 09:43:44</publishTime>
+    </File>
+    <File Include="Empleados/partials/_sideMenuEmpleados.htm">
+      <publishTime>11/03/2014 08:44:46</publishTime>
+    </File>
+    <File Include="Empleados/partials/_top.htm">
+      <publishTime>08/28/2014 22:48:48</publishTime>
+    </File>
+    <File Include="Empleados/partials/_topMenuEmpleados.htm">
+      <publishTime>11/03/2014 08:44:56</publishTime>
+    </File>
+    <File Include="Empleados/UsuariosyClientes.aspx">
+      <publishTime>11/18/2014 12:08:58</publishTime>
+    </File>
+    <File Include="FAQ.aspx">
+      <publishTime>08/21/2014 15:27:42</publishTime>
+    </File>
+    <File Include="images/agregarUsuario.jpg">
+      <publishTime>10/05/2014 10:43:36</publishTime>
+    </File>
+    <File Include="images/arrow.gif">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/basico.gif">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/basicoplus.gif">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/bg.jpg">
+      <publishTime>09/13/2014 22:08:42</publishTime>
+    </File>
+    <File Include="images/bullet.gif">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/checklst.gif">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/clock.gif">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/comment.gif">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/consultarUsuario.jpg">
+      <publishTime>10/05/2014 10:43:36</publishTime>
+    </File>
+    <File Include="images/footerbg.jpg">
+      <publishTime>09/13/2014 22:08:50</publishTime>
+    </File>
+    <File Include="images/granted.png">
+      <publishTime>08/21/2014 15:34:28</publishTime>
+    </File>
+    <File Include="images/header.jpg">
+      <publishTime>09/13/2014 22:08:36</publishTime>
+    </File>
+    <File Include="images/menubg.jpg">
+      <publishTime>09/13/2014 22:08:48</publishTime>
+    </File>
+    <File Include="images/page.gif">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/premium.gif">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/quienes.jpg">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/quote.gif">
+      <publishTime>08/19/2014 01:28:54</publishTime>
+    </File>
+    <File Include="images/Style.css">
+      <publishTime>11/18/2014 12:20:04</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>08/30/2014 09:43:50</publishTime>
+    </File>
+    <File Include="LoginClientes.aspx">
+      <publishTime>09/04/2014 22:28:44</publishTime>
+    </File>
+    <File Include="LoginEmpleados.aspx">
+      <publishTime>09/04/2014 17:29:16</publishTime>
+    </File>
+    <File Include="LoginResidentes.aspx">
+      <publishTime>08/30/2014 09:44:56</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>10/16/2014 21:57:04</publishTime>
+    </File>
+    <File Include="Mision.aspx">
+      <publishTime>08/30/2014 09:45:44</publishTime>
+    </File>
+    <File Include="Msg.aspx">
+      <publishTime>10/16/2014 00:38:42</publishTime>
+    </File>
+    <File Include="partials/_contactForm.htm">
+      <publishTime>08/19/2014 01:29:00</publishTime>
+    </File>
+    <File Include="partials/_footer.htm">
+      <publishTime>08/30/2014 09:39:16</publishTime>
+    </File>
+    <File Include="partials/_head.htm">
+      <publishTime>10/05/2014 16:13:10</publishTime>
+    </File>
+    <File Include="partials/_loginForm.htm">
+      <publishTime>08/28/2014 08:18:16</publishTime>
+    </File>
+    <File Include="partials/_sideMenuInst.htm">
+      <publishTime>08/19/2014 01:29:00</publishTime>
+    </File>
+    <File Include="partials/_sideMenuLogin.htm">
+      <publishTime>08/19/2014 01:29:00</publishTime>
+    </File>
+    <File Include="partials/_top.htm">
+      <publishTime>10/15/2014 16:49:42</publishTime>
+    </File>
+    <File Include="partials/_topMenuInst.htm">
+      <publishTime>10/09/2014 14:17:38</publishTime>
+    </File>
+    <File Include="QueEs.aspx">
+      <publishTime>08/30/2014 09:45:58</publishTime>
+    </File>
+    <File Include="QuienesSomos.aspx">
+      <publishTime>08/30/2014 09:46:16</publishTime>
+    </File>
+    <File Include="Residentes/partials/_sideMenuResidentes.htm">
+      <publishTime>08/23/2014 13:19:32</publishTime>
+    </File>
+    <File Include="Residentes/partials/_topMenuResidentes.htm">
+      <publishTime>08/23/2014 13:19:32</publishTime>
+    </File>
+    <File Include="Residentes/ResidentesHome.aspx">
+      <publishTime>08/30/2014 09:37:00</publishTime>
+    </File>
+    <File Include="Scripts/Vista.js">
+      <publishTime>10/05/2014 16:11:16</publishTime>
+    </File>
+    <File Include="UsuarioAutorizado.aspx">
+      <publishTime>08/30/2014 09:46:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/20/2014 20:10:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

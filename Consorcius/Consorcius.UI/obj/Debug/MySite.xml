@@ -1,0 +1,516 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MySite
+</name>
+</assembly>
+<members>
+<member name="T:MySite.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:MySite.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:MySite.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:MySite.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:MySite.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:MySite.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="T:MySite.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MySite.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MySite.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:MySite.AltaConsorcios._CLHGHT008">
+<summary>
+CLHGHT008 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaConsorcios._FormAltaConsorcios">
+<summary>
+FormAltaConsorcios control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaConsorcios._CLHXXXXX">
+<summary>
+CLHXXXXX control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaEgreso._CLHGHT008">
+<summary>
+CLHGHT008 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaEgreso._FormAltaEgreso">
+<summary>
+FormAltaEgreso control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaEgreso._ddlProrrateo">
+<summary>
+ddlProrrateo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaEgreso._ddlUnidadesFuncionales">
+<summary>
+ddlUnidadesFuncionales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaEgreso._CLHXXXXX">
+<summary>
+CLHXXXXX control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaIngreso._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaUnidadFuncional._CLHGHT008">
+<summary>
+CLHGHT008 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaUnidadFuncional._FormAltaUnidadFuncional">
+<summary>
+FormAltaUnidadFuncional control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaUnidadFuncional._CLHXXXXX">
+<summary>
+CLHXXXXX control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.ClientesHome._FormClientesHome">
+<summary>
+FormClientesHome control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.ClientesHome._CLHGHT001">
+<summary>
+CLHGHT001 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.ClientesHome._CLHGHT002">
+<summary>
+CLHGHT002 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.ClientesHome._CLHGHT003">
+<summary>
+CLHGHT003 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.ClientesHome._CLHGHT004">
+<summary>
+CLHGHT004 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.ClientesHome._CLHGHT005">
+<summary>
+CLHGHT005 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Consorcios._FormClientesConsorcios">
+<summary>
+FormClientesConsorcios control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Consorcios._CLHGHT008">
+<summary>
+CLHGHT008 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Consorcios._ConsultaConsorciosGridView">
+<summary>
+ConsultaConsorciosGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Expensas._FormExpensas">
+<summary>
+FormExpensas control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Expensas._CLHGHT005">
+<summary>
+CLHGHT005 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Expensas._ddlExpensas">
+<summary>
+ddlExpensas control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Expensas._ConsultaExpensasGridView">
+<summary>
+ConsultaExpensasGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Movimientos._FormMovimientos">
+<summary>
+FormMovimientos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Movimientos._CLHGHT013">
+<summary>
+CLHGHT013 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Movimientos._ddlConsorcios">
+<summary>
+ddlConsorcios control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Movimientos._ConsultaEgresosGridView">
+<summary>
+ConsultaEgresosGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.UnidadesFuncionales._FormUnidadesFuncionales">
+<summary>
+FormUnidadesFuncionales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.UnidadesFuncionales._CLHGHT013">
+<summary>
+CLHGHT013 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.UnidadesFuncionales._ddlConsorcios">
+<summary>
+ddlConsorcios control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.UnidadesFuncionales._ConsultaUnidadesFuncionalesGridView">
+<summary>
+ConsultaUnidadesFuncionalesGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaClientes._FormAltaClientes">
+<summary>
+FormAltaClientes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.AltaEmpleados._FormLoginClientes">
+<summary>
+FormLoginClientes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosBitacora._FormEmpleadosbitacora">
+<summary>
+Control FormEmpleadosbitacora.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosBitacora._A1">
+<summary>
+Control A1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosBitacora._bitacoraCalendario">
+<summary>
+Control bitacoraCalendario.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosBitacora._bitacoraFechaDesde">
+<summary>
+Control bitacoraFechaDesde.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosBitacora._bitacoraFechaHasta">
+<summary>
+Control bitacoraFechaHasta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosBitacora._bitacoraLimpiarFechas">
+<summary>
+Control bitacoraLimpiarFechas.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosBitacora._bitacoraAplicarFiltro">
+<summary>
+Control bitacoraAplicarFiltro.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosBitacora._bitacoraGridView">
+<summary>
+Control bitacoraGridView.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosConsulta._FormLoginClientes">
+<summary>
+FormLoginClientes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosConsulta._ConsultaGridView">
+<summary>
+ConsultaGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosConsultaClientes._FormConsultaClientes">
+<summary>
+FormConsultaClientes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosConsultaClientes._ConsultaClientesGridView">
+<summary>
+ConsultaClientesGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosIdioma._FormEmpleadosIdioma">
+<summary>
+FormEmpleadosIdioma control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.EmpleadosIdioma._idiomaGridView">
+<summary>
+idiomaGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.LoginEmpleados._FormLoginEmpleados">
+<summary>
+FormLoginEmpleados control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MySite.Logout._LOGGHT001">
+<summary>
+LOGGHT001 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

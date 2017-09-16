@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Consorcius.Data
+</name>
+</assembly>
+<members>
+<member name="T:Consorcius.Data.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Consorcius.Data.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Consorcius.Data.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Consorcius.Data.My.Resources.Resources.strConexion">
+<summary>
+  Looks up a localized string similar to Data Source=.;Initial Catalog=Consorcius;Integrated Security=True;User Id=Consorcius;Password=123456.
+</summary>
+</member>
+<member name="P:Consorcius.Data.My.Resources.Resources.strConexionDBA">
+<summary>
+  Looks up a localized string similar to Data Source=.;Initial Catalog=DBA;Integrated Security=True;User Id=Consorcius;Password=123456.
+</summary>
+</member>
+</members>
+</doc>

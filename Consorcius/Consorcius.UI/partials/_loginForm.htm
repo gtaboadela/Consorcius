@@ -1,0 +1,30 @@
+﻿<head>
+    <style type="text/css">
+        .button {
+            margin-bottom: 2px;
+        }
+    </style>
+</head>
+<br/><br/>        
+        <p class="align-center">
+          <asp:Label runat="server" AssociatedControlID="ctrlUsuario">Usuario</asp:Label>
+          <!--<label>Usuario</label><input name="usuario"  type="text" size="30" />-->
+          <asp:TextBox runat="server" ID="ctrlUsuario" CssClass="form-control" />
+          <asp:RequiredFieldValidator runat="server" ControlToValidate="ctrlUsuario"
+           CssClass="text-danger" ErrorMessage="El usuario es requerido." />
+           <br/><br/>
+            <!-- <label>Clave</label>&nbsp;&nbsp;&nbsp<input name="clave"  type="password" size="30" />-->
+            <asp:Label runat="server" AssociatedControlID="ctrlPassword" CssClass="col-md-2 control-label">Password</asp:Label>
+            <asp:TextBox runat="server" ID="ctrlPassword" TextMode="Password" CssClass="form-control" />
+            <asp:RequiredFieldValidator runat="server" ControlToValidate="ctrlPassword" CssClass="text-danger" ErrorMessage="La Password es requerida." />
+
+         </p>
+          <!-- <p class="align-right"> <input class="button" runat="server" type="submit" value="Enviar" onserverclick=OnSubmit/></p>-->
+         <p class="align-right"> <asp:Button runat="server" OnClick="LogIn" Text="Log in" class="button" /></p>
+
+          
+        
+
+</form>
+
+      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />

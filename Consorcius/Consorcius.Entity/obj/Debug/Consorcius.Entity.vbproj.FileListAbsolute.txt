@@ -1,0 +1,9 @@
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Entity\bin\Debug\Consorcius.Entity.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Entity\bin\Debug\Consorcius.Entity.pdb
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Entity\bin\Debug\Consorcius.Entity.xml
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Entity\obj\Debug\Consorcius.Entity.vbprojResolveAssemblyReference.cache
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Entity\obj\Debug\Consorcius.Entity.Resources.resources
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Entity\obj\Debug\Consorcius.Entity.vbproj.GenerateResource.Cache
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Entity\obj\Debug\Consorcius.Entity.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Entity\obj\Debug\Consorcius.Entity.xml
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\2017\Consorcius.net\Consorcius\Consorcius.Entity\obj\Debug\Consorcius.Entity.pdb

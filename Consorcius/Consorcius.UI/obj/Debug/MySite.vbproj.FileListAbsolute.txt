@@ -1,0 +1,117 @@
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\bin\MySite.dll
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\bin\MySite.pdb
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\bin\MySite.xml
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\bin\Entidad.dll
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\bin\Negocio.dll
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\bin\DAL.dll
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\bin\Entidad.pdb
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\bin\Negocio.pdb
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\bin\DAL.pdb
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\obj\Debug\MySite.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\obj\Debug\MySite.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\obj\Debug\MySite.dll
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\obj\Debug\MySite.xml
+D:\Documents\Visual Studio 2012\Projects\Consorcius\Consorcius.net\MySite\obj\Debug\MySite.pdb
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\MySite.dll
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\MySite.pdb
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\MySite.xml
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Entidad.dll
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Negocio.dll
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\DAL.dll
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Entidad.pdb
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Negocio.pdb
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\DAL.pdb
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.vbprojResolveAssemblyReference.cache
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.Resources.resources
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.vbproj.GenerateResource.Cache
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.dll
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.xml
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.pdb
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Interface.dll
+C:\Users\gtaboadela\Documents\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Interface.pdb
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\MySite.dll
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\MySite.pdb
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\MySite.xml
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\Entidad.dll
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\Interface.dll
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\Negocio.dll
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\DAL.dll
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\Entidad.pdb
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\Interface.pdb
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\Negocio.pdb
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\bin\DAL.pdb
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\obj\Debug\MySite.vbprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\obj\Debug\MySite.Resources.resources
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\obj\Debug\MySite.vbproj.GenerateResource.Cache
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\obj\Debug\MySite.dll
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\obj\Debug\MySite.xml
+C:\Users\Navegador\Desktop\Consorcius.net.v1.1\Consorcius.net\MySite\obj\Debug\MySite.pdb
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\MySite.dll
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\MySite.pdb
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\MySite.xml
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\Entidad.dll
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\Interface.dll
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\Negocio.dll
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\DAL.dll
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\Entidad.pdb
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\Interface.pdb
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\Negocio.pdb
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\bin\DAL.pdb
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\obj\Debug\MySite.vbprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\obj\Debug\MySite.Resources.resources
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\obj\Debug\MySite.vbproj.GenerateResource.Cache
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\obj\Debug\MySite.dll
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\obj\Debug\MySite.xml
+C:\Users\Navegador\Desktop\Consorcius.net\MySite\obj\Debug\MySite.pdb
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\MySite.dll
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\MySite.pdb
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\MySite.xml
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Entidad.dll
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Interface.dll
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Negocio.dll
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\DAL.dll
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Entidad.pdb
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Interface.pdb
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Negocio.pdb
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\DAL.pdb
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.vbprojResolveAssemblyReference.cache
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.Resources.resources
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.vbproj.GenerateResource.Cache
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.dll
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.xml
+C:\Users\gtaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.pdb
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\MySite.dll
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\MySite.pdb
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\MySite.xml
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\Entidad.dll
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\Interface.dll
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\Negocio.dll
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\DAL.dll
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\Entidad.pdb
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\Interface.pdb
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\Negocio.pdb
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\bin\DAL.pdb
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\obj\Debug\MySite.vbprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\obj\Debug\MySite.Resources.resources
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\obj\Debug\MySite.vbproj.GenerateResource.Cache
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\obj\Debug\MySite.dll
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\obj\Debug\MySite.xml
+C:\Users\Navegador\Desktop\11-20\Consorcius.net\MySite\obj\Debug\MySite.pdb
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\MySite.dll.config
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\MySite.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\MySite.pdb
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\MySite.xml
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Entidad.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Interface.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Negocio.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\DAL.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Entidad.pdb
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Interface.pdb
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\Negocio.pdb
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\bin\DAL.pdb
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.vbprojResolveAssemblyReference.cache
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.Resources.resources
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.vbproj.GenerateResource.Cache
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.dll
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.xml
+C:\Users\GermanTaboadela\OneDrive\UAI\TFI\Tecnologia\Consorcius.net\MySite\obj\Debug\MySite.pdb

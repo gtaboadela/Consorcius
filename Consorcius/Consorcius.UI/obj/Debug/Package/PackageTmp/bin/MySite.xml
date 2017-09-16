@@ -1,0 +1,332 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MySite
+</name>
+</assembly>
+<members>
+<member name="F:MySite.EmpleadosConsulta.FormLoginClientes">
+	<summary>
+FormLoginClientes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.EmpleadosConsulta.ConsultaGridView">
+	<summary>
+ConsultaGridView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.EmpleadosBitacora.FormEmpleadosbitacora">
+	<summary>
+Control FormEmpleadosbitacora.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MySite.EmpleadosBitacora.A1">
+	<summary>
+Control A1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MySite.EmpleadosBitacora.bitacoraCalendario">
+	<summary>
+Control bitacoraCalendario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MySite.EmpleadosBitacora.bitacoraFechaDesde">
+	<summary>
+Control bitacoraFechaDesde.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MySite.EmpleadosBitacora.bitacoraFechaHasta">
+	<summary>
+Control bitacoraFechaHasta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MySite.EmpleadosBitacora.bitacoraLimpiarFechas">
+	<summary>
+Control bitacoraLimpiarFechas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MySite.EmpleadosBitacora.bitacoraAplicarFiltro">
+	<summary>
+Control bitacoraAplicarFiltro.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MySite.EmpleadosBitacora.bitacoraGridView">
+	<summary>
+Control bitacoraGridView.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MySite.AltaClientes.FormAltaClientes">
+	<summary>
+FormAltaClientes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.LoginResidentes.FormLoginResidentes">
+	<summary>
+FormLoginResidentes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.AltaConsorcios.CLHGHT008">
+	<summary>
+CLHGHT008 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.AltaConsorcios.FormAltaConsorcios">
+	<summary>
+FormAltaConsorcios control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.AltaConsorcios.CLHXXXXX">
+	<summary>
+CLHXXXXX control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.AltaUnidadFuncional.CLHGHT008">
+	<summary>
+CLHGHT008 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.AltaUnidadFuncional.FormAltaUnidadFuncional">
+	<summary>
+FormAltaUnidadFuncional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.AltaUnidadFuncional.CLHXXXXX">
+	<summary>
+CLHXXXXX control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.ClientesHome.FormClientesHome">
+	<summary>
+FormClientesHome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.ClientesHome.CLHGHT001">
+	<summary>
+CLHGHT001 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.ClientesHome.CLHGHT002">
+	<summary>
+CLHGHT002 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.ClientesHome.CLHGHT003">
+	<summary>
+CLHGHT003 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.ClientesHome.CLHGHT004">
+	<summary>
+CLHGHT004 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.ClientesHome.CLHGHT005">
+	<summary>
+CLHGHT005 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.EmpleadosIdioma.FormEmpleadosIdioma">
+	<summary>
+FormEmpleadosIdioma control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.EmpleadosIdioma.idiomaGridView">
+	<summary>
+idiomaGridView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.EmpleadosConsultaClientes.FormConsultaClientes">
+	<summary>
+FormConsultaClientes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.EmpleadosConsultaClientes.ConsultaClientesGridView">
+	<summary>
+ConsultaClientesGridView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.AltaEmpleados.FormLoginClientes">
+	<summary>
+FormLoginClientes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.Consorcios.FormClientesConsorcios">
+	<summary>
+FormClientesConsorcios control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.Consorcios.CLHGHT008">
+	<summary>
+CLHGHT008 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.Consorcios.ConsultaConsorciosGridView">
+	<summary>
+ConsultaConsorciosGridView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.LoginEmpleados.FormLoginEmpleados">
+	<summary>
+FormLoginEmpleados control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MySite.Logout.LOGGHT001">
+	<summary>
+LOGGHT001 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:MySite.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:MySite.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:MySite.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:MySite.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:MySite.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:MySite.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:MySite.UnidadesFuncionales.FormUnidadesFuncionales">
+	<summary>
+Control FormUnidadesFuncionales.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MySite.UnidadesFuncionales.CLHGHT013">
+	<summary>
+Control CLHGHT013.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MySite.UnidadesFuncionales.ConsultaUnidadesFuncionalesGridView">
+	<summary>
+Control ConsultaUnidadesFuncionalesGridView.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+</members>
+</doc>
