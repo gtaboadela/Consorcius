@@ -9,19 +9,19 @@
                 <HeaderStyle Height="20px"></HeaderStyle>
                 <ItemStyle Height="20px" Width="15%"></ItemStyle>
             </asp:BoundField>
-            <asp:BoundField DataField="IdActividadTipo" HeaderText="Tipo" ItemStyle-Width="5%" ItemStyle-Height="20px" HeaderStyle-Height="20px" >
+            <asp:BoundField DataField="IdActividadTipo" HeaderText="Tipo" ItemStyle-Width="3%" ItemStyle-Height="20px" HeaderStyle-Height="20px" >
                 <HeaderStyle Height="20px"></HeaderStyle>
-                <ItemStyle Height="20px" Width="5%"></ItemStyle>
+                <ItemStyle Height="20px" Width="3%"></ItemStyle>
             </asp:BoundField>
             <asp:BoundField DataField="IdActividadTipoDescripcion" HeaderText="Descripcion" ItemStyle-Width="15%" ItemStyle-Height="20px"  HeaderStyle-Height="20px"  >
                 <HeaderStyle Height="20px"></HeaderStyle>
-                <ItemStyle Height="20px" Width="15%"></ItemStyle>
+                <ItemStyle Height="20px" Width="20%"></ItemStyle>
             </asp:BoundField>
-            <asp:BoundField DataField="Descripcion" HeaderText="Detalle" ItemStyle-Width="65%" ItemStyle-Height="20px" HeaderStyle-Height="20px" >
+            <asp:BoundField DataField="Descripcion" HeaderText="Detalle" ItemStyle-Width="52%" ItemStyle-Height="20px" HeaderStyle-Height="20px" >
                 <HeaderStyle Height="20px"></HeaderStyle>
-                <ItemStyle Height="20px" Width="55%"></ItemStyle>
+                <ItemStyle Height="20px" Width="52%"></ItemStyle>
             </asp:BoundField>
-            <asp:BoundField DataField="Usuario" HeaderText="Detalle" ItemStyle-Width="65%" ItemStyle-Height="20px" HeaderStyle-Height="20px" >
+            <asp:BoundField DataField="Usuario" HeaderText="Usuario" ItemStyle-Width="10%" ItemStyle-Height="20px" HeaderStyle-Height="20px" >
                 <HeaderStyle Height="20px"></HeaderStyle>
                 <ItemStyle Height="20px" Width="10%"></ItemStyle>
             </asp:BoundField>

@@ -81,10 +81,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="RespaldoDAO.vb" />
     <Compile Include="SQLComandos.vb" />
     <Compile Include="SQLConexion.vb" />
     <Compile Include="SQLParametros.vb" />
+    <Compile Include="TraductorDAO.vb" />
     <Compile Include="UsuarioDAO.vb" />
     <Compile Include="VerificadorDAO.vb" />
   </ItemGroup>

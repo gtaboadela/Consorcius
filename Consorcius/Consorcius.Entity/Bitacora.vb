@@ -85,10 +85,14 @@
     End Sub
     Public Sub New(pTipo As Integer)
         Me.IdActividadTipo = pTipo
+        Me.Descripcion = ""
+        Me.Usuario = ""
     End Sub
+
     Public Sub New(pTipo As Integer, pDescripcion As String)
         Me.IdActividadTipo = pTipo
         Me.Descripcion = pDescripcion
+        Me.Usuario = ""
     End Sub
     Public Sub New(pTipo As Integer, pUsuario As String, pDescripcion As String)
         Me.Usuario = pUsuario

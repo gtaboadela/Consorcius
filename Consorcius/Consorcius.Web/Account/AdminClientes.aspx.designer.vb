@@ -11,32 +11,41 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class admin
+Partial Public Class AdminClientes
     
     '''<summary>
-    '''form1 control.
+    '''ErrorMessage control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+    Protected WithEvents ErrorMessage As Global.System.Web.UI.WebControls.PlaceHolder
     
     '''<summary>
-    '''ddmIdiomas control.
+    '''FailureText control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents ddmIdiomas As Global.System.Web.UI.WebControls.Literal
+    Protected WithEvents FailureText As Global.System.Web.UI.WebControls.Literal
     
     '''<summary>
-    '''MainContent control.
+    '''ctrlUsuario control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents MainContent As Global.System.Web.UI.WebControls.ContentPlaceHolder
+    Protected WithEvents ctrlUsuario As Global.System.Web.UI.WebControls.TextBox
+    
+    '''<summary>
+    '''ctrlPassword control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ctrlPassword As Global.System.Web.UI.WebControls.TextBox
 End Class

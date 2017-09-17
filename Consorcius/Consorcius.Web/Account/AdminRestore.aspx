@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
    <div class="form-horizontal">
-       <h2> Últimos Backups </h2>
+       <h2 id="ADM-RST-TIT-001"> Últimos Backups </h2>
     
      <div class="padded">
     <asp:gridview runat="server" ID="backupGridView" AutoGenerateColumns="False" AllowPaging="true" PageSize="10" OnPageIndexChanging="backupGridView_PageIndexChanging" style="max-height:400px;width:1000px; margin-left: 6px; margin-right: 35px; overflow:auto"
@@ -39,7 +39,7 @@
 
          <div class="divider-10"></div>
        <div class="form-horizontal">
-      <h3>Restore</h3>
+      <h3 id="ADM-RST-TIT-002">Restore</h3>
         <asp:PlaceHolder runat="server" ID="StatusMessage" Visible="false">
             <p class="text-danger">
                 <asp:Literal runat="server" ID="StatusText" />
@@ -61,5 +61,5 @@
            <asp:Button runat="server" OnClick="RealizarRestore" Text="Restaurar" CssClass="btn btn-default" />
         </div>
       </div>
-</div>
+
 </asp:Content>

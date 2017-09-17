@@ -83,7 +83,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="RespaldoController.vb" />
+    <Compile Include="TraductorController.vb" />
     <Compile Include="UsuarioController.vb" />
     <Compile Include="VerificadorController.vb" />
   </ItemGroup>

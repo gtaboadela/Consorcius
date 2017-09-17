@@ -100,10 +100,17 @@ Public Class SQLComandos
 
 
     'RetDatatable Recargada para que no tome parametros
-    Shared Function RetDatatable(ByVal pNombreSP As String) As DataTable
-        Dim da As New SqlDataAdapter(ObjComando(pNombreSP, SQLConexion.ObjConexion))
+    Shared Function RetDatatable(ByVal pText As String, Optional pIsText As Boolean = False) As DataTable
+
         Dim dt As New DataTable
-        da.Fill(dt)
+        If pIsText Then
+            Dim da As New SqlDataAdapter(ObjComandoText(pText, SQLConexion.ObjConexion))
+            da.Fill(dt)
+        Else
+            Dim da As New SqlDataAdapter(ObjComando(pText, SQLConexion.ObjConexion))
+            da.Fill(dt)
+
+        End If
         Return dt
     End Function
 
